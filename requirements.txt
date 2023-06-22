@@ -4,4 +4,4 @@ nltk
 keras
 emoji
 numpy
-gunicorn
+gunicorn==20.0.4
