@@ -1,0 +1,6 @@
+flask
+tensorflow
+nltk
+keras
+emoji
+numpy
